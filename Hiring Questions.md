@@ -18,7 +18,7 @@
    - **(Yes)**
 
 6. **In case you are not available during the full period, what would be the preferable period?**  
-   - **("I am available at any time, as I am looking for a full-time opportunity.)**
+   - **(I am available at any time, as I am looking for a full-time opportunity.)**
 
 7. **Are you a European citizen?**  
    - **(No)**  
